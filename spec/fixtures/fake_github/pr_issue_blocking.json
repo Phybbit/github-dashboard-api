@@ -1,0 +1,52 @@
+{
+  "url": "https://api.github.com/repos/okoriko/github-api-test/issues/2",
+  "labels_url": "https://api.github.com/repos/okoriko/github-api-test/issues/2/labels{/name}",
+  "comments_url": "https://api.github.com/repos/okoriko/github-api-test/issues/2/comments",
+  "events_url": "https://api.github.com/repos/okoriko/github-api-test/issues/2/events",
+  "html_url": "https://github.com/okoriko/github-api-test/pull/2",
+  "id": 56149595,
+  "number": 2,
+  "title": "PR pending | no upvotes",
+  "user": {
+    "login": "okoriko",
+    "id": 5242874,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5242874?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/okoriko",
+    "html_url": "https://github.com/okoriko",
+    "followers_url": "https://api.github.com/users/okoriko/followers",
+    "following_url": "https://api.github.com/users/okoriko/following{/other_user}",
+    "gists_url": "https://api.github.com/users/okoriko/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/okoriko/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/okoriko/subscriptions",
+    "organizations_url": "https://api.github.com/users/okoriko/orgs",
+    "repos_url": "https://api.github.com/users/okoriko/repos",
+    "events_url": "https://api.github.com/users/okoriko/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/okoriko/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "labels": [
+    {
+      "url": "https://api.github.com/repos/okoriko/github-api-test/labels/blocking",
+      "name": "blocking",
+      "color": "eb6420"
+    }
+  ],
+  "state": "open",
+  "locked": false,
+  "assignee": null,
+  "milestone": null,
+  "comments": 0,
+  "created_at": "2015-02-01T03:01:34Z",
+  "updated_at": "2015-02-06T15:01:55Z",
+  "closed_at": null,
+  "pull_request": {
+    "url": "https://api.github.com/repos/okoriko/github-api-test/pulls/2",
+    "html_url": "https://github.com/okoriko/github-api-test/pull/2",
+    "diff_url": "https://github.com/okoriko/github-api-test/pull/2.diff",
+    "patch_url": "https://github.com/okoriko/github-api-test/pull/2.patch"
+  },
+  "body": "Another pr",
+  "closed_by": null
+}

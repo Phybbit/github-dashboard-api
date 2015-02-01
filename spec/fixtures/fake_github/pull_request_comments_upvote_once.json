@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://api.github.com/repos/okoriko1/github-test/issues/comments/72348453",
+    "html_url": "https://github.com/okoriko1/github-test/pull/1#issuecomment-72348453",
+    "issue_url": "https://api.github.com/repos/okoriko1/github-test/issues/1",
+    "id": 72348453,
+    "user": {
+      "login": "okoriko1",
+      "id": 5242874,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5242874?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/okoriko1",
+      "html_url": "https://github.com/okoriko1",
+      "followers_url": "https://api.github.com/users/okoriko1/followers",
+      "following_url": "https://api.github.com/users/okoriko1/following{/other_user}",
+      "gists_url": "https://api.github.com/users/okoriko1/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/okoriko1/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/okoriko1/subscriptions",
+      "organizations_url": "https://api.github.com/users/okoriko1/orgs",
+      "repos_url": "https://api.github.com/users/okoriko1/repos",
+      "events_url": "https://api.github.com/users/okoriko1/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/okoriko1/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2015-02-01T02:45:51Z",
+    "updated_at": "2015-02-01T02:45:51Z",
+    "body": "Normal comment"
+  },
+  {
+    "url": "https://api.github.com/repos/okoriko1/github-test/issues/comments/72348458",
+    "html_url": "https://github.com/okoriko1/github-test/pull/1#issuecomment-72348458",
+    "issue_url": "https://api.github.com/repos/okoriko1/github-test/issues/1",
+    "id": 72348458,
+    "user": {
+      "login": "okoriko1",
+      "id": 5242874,
+      "avatar_url": "https://avatars.githubusercontent.com/u/5242874?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/okoriko1",
+      "html_url": "https://github.com/okoriko1",
+      "followers_url": "https://api.github.com/users/okoriko1/followers",
+      "following_url": "https://api.github.com/users/okoriko1/following{/other_user}",
+      "gists_url": "https://api.github.com/users/okoriko1/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/okoriko1/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/okoriko1/subscriptions",
+      "organizations_url": "https://api.github.com/users/okoriko1/orgs",
+      "repos_url": "https://api.github.com/users/okoriko1/repos",
+      "events_url": "https://api.github.com/users/okoriko1/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/okoriko1/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "created_at": "2015-02-01T02:45:57Z",
+    "updated_at": "2015-02-01T02:45:57Z",
+    "body": "and now with a:+1: "
+  }
+]
