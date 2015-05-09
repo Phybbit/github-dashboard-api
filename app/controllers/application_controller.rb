@@ -5,22 +5,11 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :null_session
 
 
-  attr_reader :client
   attr_reader :redis
-  before_action :setup
+  before_action :setup_redis
 
-  def setup
-    # Until the end of the transition period: Feb 24, 2015
-    Octokit.default_media_type="application/vnd.github.moondragon+json"
-    @client = Rails.configuration.octokit.new(access_token: current_user.github_token)
+  def setup_redis
     @redis = Redis.current
-  end
-
-  def repo_list
-    return ["okoriko/github-api-test"] if Rails.env.test?
-    [
-      "okoriko/github-api-test"
-    ]
   end
 
   def store_pr_data_in_cache(data)

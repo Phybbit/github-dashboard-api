@@ -1,4 +1,4 @@
-class PullRequestsController < ApplicationController
+class PullRequestsController < GithubApiBaseController
   before_filter :authenticate_user!
 
   def index
